@@ -1,0 +1,13 @@
+server:
+  port: 8009
+spring:
+  application:
+    name: xucheng-sms
+  rabbitmq:
+    host: 192.168.1.137
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8010/eureka/
+  instance:
+    prefer-ip-address: true

@@ -1,0 +1,17 @@
+server:
+  port: 8006
+spring:
+  application:
+    name: xucheng-spit
+  data:
+    mongodb:
+      host: 192.168.1.137
+      database: spitdb
+  redis:
+    host: 192.168.1.137
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8010/eureka/
+  instance:
+    prefer-ip-address: true

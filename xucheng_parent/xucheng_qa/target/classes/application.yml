@@ -1,0 +1,28 @@
+server: 
+  port: 8003
+spring: 
+  application:  
+    name: xucheng-qa #指定服务名
+  datasource:  
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.1.137:3306/tensquare_qa?characterEncoding=UTF8
+    username: root
+    password: 123456
+  jpa: 
+    database: MySQL
+    show-sql: true
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8010/eureka/
+  instance:
+    prefer-ip-address: true
+feign:
+  hystrix:
+    enabled: true
+jwt:
+  config:
+    ttl: 3600000
+    #自己随便定义一个
+    key: yangxucheng
+

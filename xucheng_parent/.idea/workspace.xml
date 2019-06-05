@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="433b1d93-1b24-4f54-8f73-f98cfcabe4c1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/xucheng_base/target/" />
+    <ignored path="$PROJECT_DIR$/xucheng_common/target/" />
+    <ignored path="$PROJECT_DIR$/xucheng_recruit/target/" />
+    <ignored path="$PROJECT_DIR$/xucheng_qa/target/" />
+    <ignored path="$PROJECT_DIR$/xucheng_recruits/target/" />
+    <ignored path="$PROJECT_DIR$/xucheng_article/target/" />
+    <ignored path="$PROJECT_DIR$/xucheng_gathering/target/" />
+    <ignored path="$PROJECT_DIR$/xucheng.spit/target/" />
+    <ignored path="$PROJECT_DIR$/xucheng_spit/target/" />
+    <ignored path="$PROJECT_DIR$/xucheng.search/target/" />
+    <ignored path="$PROJECT_DIR$/xucheng_search/target/" />
+    <ignored path="$PROJECT_DIR$/xucheng_user/target/" />
+    <ignored path="$PROJECT_DIR$/xucheng_sms/target/" />
+    <ignored path="$PROJECT_DIR$/xucheng_euraka/target/" />
+    <ignored path="$PROJECT_DIR$/xucheng_eureka/target/" />
+    <ignored path="$PROJECT_DIR$/xucheng_friend/target/" />
+    <ignored path="$PROJECT_DIR$/xucheng_manager/target/" />
+    <ignored path="$PROJECT_DIR$/xucheng_web/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1846161831">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.29" value="2" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.31" value="3" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.35" value="2" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.37" value="2" />
+          <entry key="project.open.time.39" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="37" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="1" value="1" />
+          <entry key="class" value="71" />
+          <entry key="conf" value="6" />
+          <entry key="gif" value="5" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="875" />
+          <entry key="log" value="1" />
+          <entry key="png" value="5" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="106" />
+          <entry key="yml" value="97" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="71" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="Image" value="10" />
+          <entry key="JAVA" value="875" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="106" />
+          <entry key="YAML" value="97" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="conf" value="21" />
+          <entry key="dummy" value="49" />
+          <entry key="java" value="20692" />
+          <entry key="xml" value="404" />
+          <entry key="yml" value="856" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="20690" />
+          <entry key="PLAIN_TEXT" value="70" />
+          <entry key="SQL" value="1" />
+          <entry key="Spring Data QL" value="1" />
+          <entry key="XML" value="404" />
+          <entry key="YAML" value="856" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xucheng_parent" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/controller/ArticleController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-278">
+              <caret line="49" column="35" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+              <folding>
+                <element signature="e#1706#1707#0" expanded="true" />
+                <element signature="e#1782#1783#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/service/ArticleService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="81" column="16" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xucheng_search/src/main/java/com/xucheng/search/pojo/Article.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xucheng_search/src/main/java/com/xucheng/search/controller/ArticleController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/ArticleApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xucheng_search/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/util/StateResourceConfigurer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="6" selection-start-line="6" selection-end-line="23" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xucheng_search/src/main/java/com/xucheng/search/service/ArticleService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="42" column="5" lean-forward="true" selection-start-line="39" selection-start-column="3" selection-end-line="42" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xucheng_search/src/main/java/com/xucheng/search/dao/ArticleDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="17" column="103" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xucheng_sms/src/main/java/com/xucheng/sms/listener/InfoListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="yet_unknown" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>重复</find>
+      <find>name</find>
+      <find>Idea</find>
+      <find>repos</find>
+      <find>ideaContent</find>
+      <find>Poem</find>
+      <find>field</find>
+      <find>queryforpage</find>
+      <find>pageNum</find>
+      <find>article</find>
+      <find>redis</find>
+      <find>Page&lt;</find>
+      <find>targetuser</find>
+      <find>follow</find>
+      <find>asList</find>
+      <find>eq</find>
+      <find>UFollow</find>
+      <find>ORDER</find>
+      <find>pageable</find>
+      <find>虚拟</find>
+      <find>java.util.Date</find>
+      <find>AmqpTemplate</find>
+      <find>log.</find>
+      <find>session</find>
+      <find>userFeignClient</find>
+      <find>convertAndSend</find>
+      <find>UserFeignClient</find>
+      <find>match</find>
+      <find>.set(&quot;checkcode_&quot;</find>
+      <find>rabb</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>192.168.1.112</replace>
+      <replace>User</replace>
+      <replace>like</replace>
+      <replace>-</replace>
+      <replace>xucheng</replace>
+      <replace>String</replace>
+      <replace>192.168.43.228</replace>
+      <replace>192.168.1.137</replace>
+      <replace>conditions</replace>
+      <replace>Conditions</replace>
+      <replace>title</replace>
+      <replace>content</replace>
+      <replace>Article</replace>
+      <replace>lid</replace>
+      <replace>PFollow</replace>
+      <replace>Date</replace>
+      <replace>System.out.println</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\github\xucheng_parent\xucheng_friend\src\main\java\com\xucheng\friend\feign</dir>
+      <dir>D:\github\xucheng_parent\</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/Vue/fcp/PORTAL/CmccLiferay" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/pojo/PFollow.java" />
+        <option value="$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/dao/PFollowDao.java" />
+        <option value="$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/dao/ProblemDao.java" />
+        <option value="$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/dao/UFollowDao.java" />
+        <option value="$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/pojo/Problem.java" />
+        <option value="$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/controller/ProblemController.java" />
+        <option value="$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/service/ProblemService.java" />
+        <option value="$PROJECT_DIR$/xucheng_qa/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/util/StateResourceConfigurer.java" />
+        <option value="$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/interceptor/JwtlInteceptor.java" />
+        <option value="$PROJECT_DIR$/xucheng_gathering/src/main/java/com/xucheng/gathering/dao/GatheringDao.java" />
+        <option value="$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/pojo/Article.java" />
+        <option value="$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/pojo/Column.java" />
+        <option value="$PROJECT_DIR$/xucheng_recruit/src/main/java/com/xucheng/recruit/pojo/Recruit.java" />
+        <option value="$PROJECT_DIR$/xucheng_spit/src/main/java/com/xucheng/spit/pojo/Spit.java" />
+        <option value="$PROJECT_DIR$/xucheng_user/src/main/java/com/xucheng/user/pojo/User.java" />
+        <option value="$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/pojo/Reply.java" />
+        <option value="$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/dao/ReplyDao.java" />
+        <option value="$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/controller/ReplyController.java" />
+        <option value="$PROJECT_DIR$/xucheng_user/src/main/java/com/xucheng/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/xucheng_user/pom.xml" />
+        <option value="$PROJECT_DIR$/xucheng_article/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/xucheng_spit/src/main/java/com/xucheng/spit/service/SpitService.java" />
+        <option value="$PROJECT_DIR$/xucheng_sms/src/main/java/com/xucheng/sms/config/WebSocketConfig.java" />
+        <option value="$PROJECT_DIR$/xucheng_gathering/src/main/java/com/xucheng/gathering/pojo/Gathering.java" />
+        <option value="$PROJECT_DIR$/xucheng_sms/src/main/java/com/xucheng/sms/controller/InfoController.java" />
+        <option value="$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/controller/CommentController.java" />
+        <option value="$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/pojo/User.java" />
+        <option value="$PROJECT_DIR$/xucheng_sms/src/main/java/com/xucheng/sms/pojo/Info.java" />
+        <option value="$PROJECT_DIR$/xucheng_sms/pom.xml" />
+        <option value="$PROJECT_DIR$/xucheng_qa/pom.xml" />
+        <option value="$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/pojo/User.java" />
+        <option value="$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/feign/UserFeignClient.java" />
+        <option value="$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/feign/impl/UserFeignClientImpl.java" />
+        <option value="$PROJECT_DIR$/xucheng_article/pom.xml" />
+        <option value="$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/service/ReplyService.java" />
+        <option value="$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/service/CommentService.java" />
+        <option value="$PROJECT_DIR$/xucheng_user/src/main/java/com/xucheng/user/service/AdminService.java" />
+        <option value="$PROJECT_DIR$/xucheng_common/src/main/java/util/IdWorker.java" />
+        <option value="$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/interceptor/JwtlInteceptor.java" />
+        <option value="$PROJECT_DIR$/xucheng_common/src/main/java/util/JwtUtil.java" />
+        <option value="$PROJECT_DIR$/xucheng_user/src/main/java/com/xucheng/user/interceptor/JwtlInteceptor.java" />
+        <option value="$PROJECT_DIR$/xucheng_manager/src/main/java/com/xucheng/manager/filter/ManagerFilter.java" />
+        <option value="$PROJECT_DIR$/xucheng_sms/src/main/java/com/xucheng/sms/websocket/WebSocketServer.java" />
+        <option value="$PROJECT_DIR$/xucheng_sms/src/main/java/com/xucheng/sms/listener/InfoListener.java" />
+        <option value="$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/service/ArticleService.java" />
+        <option value="$PROJECT_DIR$/xucheng_search/src/main/java/com/xucheng/search/pojo/Article.java" />
+        <option value="$PROJECT_DIR$/xucheng_search/src/main/java/com/xucheng/search/service/ArticleService.java" />
+        <option value="$PROJECT_DIR$/xucheng_search/src/main/java/com/xucheng/search/dao/ArticleDao.java" />
+        <option value="$PROJECT_DIR$/xucheng_search/src/main/java/com/xucheng/search/controller/ArticleController.java" />
+        <option value="$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/ArticleApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repo" />
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xucheng_base" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xucheng_base" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xucheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xucheng_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xucheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xucheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xucheng_article" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xucheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xucheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xucheng_article" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xucheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xucheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xucheng_article" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xucheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xucheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xucheng_article" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xucheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xucheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xucheng_article" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="article" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xucheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xucheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xucheng_article" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="article" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xucheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xucheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xucheng_article" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="article" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xucheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xucheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xucheng_search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xucheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xucheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xucheng_search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xucheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xucheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xucheng_search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xucheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xucheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xucheng_search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xucheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xucheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xucheng_search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xucheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xucheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xucheng_search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xucheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xucheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xucheng_search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xucheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xucheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xucheng_search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xucheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xucheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xucheng_search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558238327001" />
+    <property name="last_opened_file_path" value="D:/新建文件夹 (2)/online-customservice-system/HFUT_Group" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.44211575" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xucheng.qa.pojo" />
+      <recent name="com.xucheng.qa.feign.impl" />
+      <recent name="com.xucheng.qa.feign" />
+      <recent name="com.xucheng.article.pojo" />
+      <recent name="com.xucheng.sms.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\xucheng_parent\xucheng_article\src\main\java\com\xucheng\article\dao" />
+      <recent name="D:\github\xucheng_parent\xucheng_article\src\main\java\com\xucheng\article\service" />
+      <recent name="D:\github\xucheng_parent\xucheng_article\src\main\java\com\xucheng\article\controller" />
+      <recent name="D:\github\xucheng_parent\xucheng_article\src\main\java\com\xucheng\article\pojo" />
+      <recent name="D:\github\xucheng_parent\xucheng_article\src\main\java\com\xucheng\article" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.2758887" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SmsApplication">
+    <configuration name="ArticleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="xucheng_article" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xucheng.article.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xucheng.article.ArticleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="xucheng_base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xucheng.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xucheng.base.BaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="xucheng_eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xucheng.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xucheng.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatheringApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="xucheng_gathering" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xucheng.gathering.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xucheng.gathering.GatheringApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="xucheng_manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xucheng.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xucheng.manager.ManagerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="xucheng_qa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xucheng.qa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xucheng.qa.QaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecruitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="xucheng_recruit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xucheng.recruit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xucheng.recruit.RecruitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="xucheng_search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xucheng.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xucheng.search.SearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="xucheng_sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xucheng.sms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xucheng.sms.SmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="xucheng_user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xucheng.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xucheng.user.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="xucheng_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xucheng.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xucheng.web.WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SearchApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.WebApplication" />
+      <item itemvalue="Spring Boot.ArticleApplication" />
+      <item itemvalue="Spring Boot.ManagerApplication" />
+      <item itemvalue="Spring Boot.GatheringApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.BaseApplication" />
+      <item itemvalue="Spring Boot.QaApplication" />
+      <item itemvalue="Spring Boot.RecruitApplication" />
+      <item itemvalue="Spring Boot.SmsApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="433b1d93-1b24-4f54-8f73-f98cfcabe4c1" name="Default Changelist" comment="" />
+      <created>1547630429447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547630429447</updated>
+      <workItem from="1547630432962" duration="7670000" />
+      <workItem from="1547691426458" duration="2355000" />
+      <workItem from="1547711660589" duration="6014000" />
+      <workItem from="1547718252862" duration="5477000" />
+      <workItem from="1547729089575" duration="1245000" />
+      <workItem from="1547773986347" duration="7978000" />
+      <workItem from="1547794378100" duration="9119000" />
+      <workItem from="1548035835355" duration="11880000" />
+      <workItem from="1548060925400" duration="41173000" />
+      <workItem from="1548381468673" duration="9054000" />
+      <workItem from="1548401970244" duration="4807000" />
+      <workItem from="1548640404960" duration="19821000" />
+      <workItem from="1550653401962" duration="2677000" />
+      <workItem from="1550662970144" duration="1632000" />
+      <workItem from="1550713072915" duration="15942000" />
+      <workItem from="1551059393476" duration="7587000" />
+      <workItem from="1551145028773" duration="6059000" />
+      <workItem from="1551231351815" duration="3623000" />
+      <workItem from="1551317564829" duration="31659000" />
+      <workItem from="1551748675365" duration="16478000" />
+      <workItem from="1551858346337" duration="93000" />
+      <workItem from="1551858538562" duration="102000" />
+      <workItem from="1551859120865" duration="8715000" />
+      <workItem from="1552012505887" duration="22062000" />
+      <workItem from="1552527749327" duration="22434000" />
+      <workItem from="1552704889871" duration="13364000" />
+      <workItem from="1552734244731" duration="55692000" />
+      <workItem from="1553168013009" duration="48784000" />
+      <workItem from="1553827730167" duration="278000" />
+      <workItem from="1553828074426" duration="8064000" />
+      <workItem from="1554119250185" duration="23399000" />
+      <workItem from="1554706237480" duration="13277000" />
+      <workItem from="1555048827490" duration="24911000" />
+      <workItem from="1556154364049" duration="15259000" />
+      <workItem from="1557109142257" duration="34179000" />
+      <workItem from="1557970501061" duration="21813000" />
+      <workItem from="1558248536604" duration="11880000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_Features_in__xucheng_recruit - 2019.01.17 at 17h 42m 15s.xml">
+      <configuration name="All Features in: xucheng_recruit" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="536556000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8546169" visible="true" weight="0.22692889" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.1453831" side_tool="true" weight="0.25718608" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3270869" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20954004" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298611" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3298611" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33854166" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.8211244" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.24872231" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32879046" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.49924356" visible="true" weight="0.38330495" />
+      <window_info anchor="bottom" id="Problems" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.24962178" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.48260212" />
+      <window_info anchor="right" id="Bean Validation" order="7" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/xucheng_common/src/main/java/util/IdWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_base/src/main/java/com/xucheng/base/controller/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="45" column="24" lean-forward="true" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_gathering/src/main/java/com/xucheng/gathering/controller/GatheringController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-469">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_recruit/src/main/java/com/xucheng/recruit/controller/EnterpriseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/controller/ColumnController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1676">
+          <caret line="111" column="33" selection-start-line="111" selection-start-column="26" selection-end-line="111" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/interceptor/JwtlInteceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="36" column="58" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/controller/ChannelController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/service/ChannelService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/service/CommentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="209" column="121" selection-start-line="209" selection-start-column="121" selection-end-line="209" selection-end-column="121" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/controller/UtilController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="38" column="68" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/controller/CommentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_user/src/main/java/com/xucheng/user/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-640">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/pojo/Problem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/pojo/Reply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-93">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/pojo/PFollow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/pojo/UFollow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_common/src/main/java/entity/StatusCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/controller/ProblemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1957">
+          <caret line="189" column="54" selection-start-line="189" selection-start-column="54" selection-end-line="189" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/feign/UserFeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/feign/impl/UserFeignClientImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/service/ProblemService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/service/ReplyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-359">
+          <caret line="51" column="43" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/feign/impl/BaseClientImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/feign/impl/UserFeignClientImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/feign/UserFeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE.jar!/org/springframework/beans/factory/annotation/Autowired.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_user/src/main/java/com/xucheng/user/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2299">
+          <caret line="160" column="31" selection-start-line="160" selection-start-column="31" selection-end-line="160" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_user/src/main/java/com/xucheng/user/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="69" column="68" selection-start-line="69" selection-start-column="59" selection-end-line="69" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_user/src/main/java/com/xucheng/user/config/InterceptorConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_user/src/main/java/com/xucheng/user/interceptor/JwtlInteceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_manager/src/main/java/com/xucheng/manager/filter/ManagerFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/controller/ReplyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_qa/src/main/java/com/xucheng/qa/interceptor/JwtlInteceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_common/src/main/java/util/JwtUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="54" column="77" selection-start-line="54" selection-start-column="72" selection-end-line="54" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/config/InterceptorConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_sms/src/main/java/com/xucheng/sms/config/WebSocketConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_sms/src/main/java/com/xucheng/sms/utils/SendMsg_webchinese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_sms/src/main/java/com/xucheng/sms/websocket/WebSocketServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="111" column="53" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_sms/src/main/java/com/xucheng/sms/listener/SmsListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_sms/src/main/java/com/xucheng/sms/listener/InfoListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/service/ArticleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="81" column="16" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/controller/ArticleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-278">
+          <caret line="49" column="35" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+          <folding>
+            <element signature="e#1706#1707#0" expanded="true" />
+            <element signature="e#1782#1783#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_search/src/main/java/com/xucheng/search/service/ArticleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="39" selection-start-column="3" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_search/src/main/java/com/xucheng/search/dao/ArticleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="103" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_search/src/main/java/com/xucheng/search/controller/ArticleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/util/StateResourceConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" selection-start-line="6" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_article/src/main/java/com/xucheng/article/ArticleApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_search/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xucheng_search/src/main/java/com/xucheng/search/pojo/Article.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31536925" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.44211575" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31536925" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.44211575" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apache.tomcat.embed:tomcat-embed-websocket:8.5.29</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.44211575" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

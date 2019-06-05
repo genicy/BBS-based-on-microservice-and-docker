@@ -1,0 +1,15 @@
+server:
+  port: 8007
+spring:
+  application:
+    name: xucheng-search
+
+  data:
+    elasticsearch:
+      cluster-nodes: 127.0.0.1:9300
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8010/eureka/
+  instance:
+    prefer-ip-address: true

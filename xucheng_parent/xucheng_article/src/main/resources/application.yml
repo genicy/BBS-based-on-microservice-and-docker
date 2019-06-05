@@ -1,0 +1,37 @@
+server: 
+  port: 8004
+spring:
+  resources:
+    static-locations: classpath:/resources/static
+  application:  
+    name: xucheng-article #指定服务名
+  devtools:
+    restart:
+      enabled: true #设置开启热部署
+  datasource:  
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.1.137:3306/tensquare_article?characterEncoding=UTF8
+    username: root
+    password: 123456
+  jpa: 
+    database: MySQL
+    show-sql: true
+  rabbitmq:
+    host: 192.168.1.137
+  redis:
+    host: 192.168.1.137
+    # 指定静态资源的路径
+  freemarker:
+    cache: false #页面不加载缓存，修改即时生效
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8010/eureka/
+  instance:
+    prefer-ip-address: true
+jwt:
+  config:
+    ttl: 3600000
+    #自己随便定义一个
+    key: yangxucheng
+

@@ -1,0 +1,12 @@
+server:
+  port: 8010
+spring:
+  application:
+    name: xucheng-eureka
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://127.0.0.1:${server.port}/eureka/
+

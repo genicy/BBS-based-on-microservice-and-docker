@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xucheng_article" />
+        <module name="xucheng_base" />
+        <module name="xucheng_common" />
+        <module name="xucheng_eureka" />
+        <module name="xucheng_friend" />
+        <module name="xucheng_gathering" />
+        <module name="xucheng_manager" />
+        <module name="xucheng_qa" />
+        <module name="xucheng_recruit" />
+        <module name="xucheng_search" />
+        <module name="xucheng_sms" />
+        <module name="xucheng_spit" />
+        <module name="xucheng_user" />
+        <module name="xucheng_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xucheng_euraka" target="1.8" />
+      <module name="xucheng_recruits" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,38 @@
+server:
+  port: 8013
+spring:
+  application:
+    name: xucheng-web #指定服务名
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8010/eureka/
+  instance:
+    prefer-ip-address: true
+zuul:
+  routes:
+    xucheng-gathering: #活动
+      path: /gathering/** #配置请求URL的请求规则
+      serviceId: xucheng-gathering #指定Eureka注册中心中的服务id
+    xucheng-article: #文章
+      path: /article/** #配置请求URL的请求规则
+      serviceId: xucheng-article #指定Eureka注册中心中的服务id
+    xucheng-base: #基础
+      path: /base/** #配置请求URL的请求规则
+      serviceId: xucheng-base #指定Eureka注册中心中的服务id
+    xucheng-friend: #交友
+      path: /friend/** #配置请求URL的请求规则
+      serviceId: xucheng-friend #指定Eureka注册中心中的服务id
+    xucheng-qa: #问答
+      path: /qa/** #配置请求URL的请求规则
+      serviceId: xucheng-qa #指定Eureka注册中心中的服务id
+    xucheng-recruit: #招聘
+      path: /recruit/** #配置请求URL的请求规则
+      serviceId: xucheng-recruit #指定Eureka注册中心中的服务id
+    xucheng-spit: #吐槽
+      path: /spit/** #配置请求URL的请求规则
+      serviceId: xucheng-spit #指定Eureka注册中心中的服务id
+    xucheng-user: #用户
+      path: /user/** #配置请求URL的请求规则
+      serviceId: xucheng-user #指定Eureka注册中心中的服务id
+
